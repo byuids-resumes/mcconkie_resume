@@ -1,89 +1,58 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Eddie McConkie's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Eddie McConkie
+Studying Software Engineering
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="edwardmcconkie@gmail.com">edwardmcconkie@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/edward-mcconkie/">LinkedIn</a>
+| <a href="https://github.com/eddiemcconkie/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2020 - Present`
 __Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- 4.0 GPA
 
 
 ## Related Experience
 
-### Internships
+### Work History
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2021 - Present`
+__TA for Algorithm Design Course__, BYU-I
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked on producing a new version of the course textbook.
+- Interacted with students and provided feedback on assigments to help them improve coding skills and style in Python.
 
-### Data Science Lead
+`April - September 2020`
+__Warehouse Associate__, Amazon
+- Worked on order fulfillment in a fast-paced environment.
+- Applied good organization and coordination skills.
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`2015 - 2017`
+__Instructor__, Zaniac
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Tutored K-8 students in programming concepts using Python and Java.
+- Taught other STEM topics, such as math and robotics.
+- Experienced in teaching, working with, and communicating with others.
 
 
-## Service and Work History
+### Service
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2017 - 2019`
+__Missionary__, The Church of Jesus Christ of Latter-Day Saints in Colombia
 
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+- Studied Spanish and learned communication skills within a different culture.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2021 -->
 
 
