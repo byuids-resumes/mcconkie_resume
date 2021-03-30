@@ -48,8 +48,7 @@ __Instructor__, Zaniac
 
 `2017 - 2019`
 __Missionary__, The Church of Jesus Christ of Latter-Day Saints in Colombia
-
-- Studied Spanish and learned communication skills within a different culture.
+- Fluent in Spanish
 
 <!-- ### Footer
 
