@@ -48,6 +48,18 @@ __Instructor__, Zaniac
 __Missionary__, The Church of Jesus Christ of Latter-Day Saints in Colombia
 - Fluent in Spanish
 
+
+## Tools and Skills
+### Advanced
+- C++
+- Python
+- SQL
+
+### Competent
+- Java
+- HTML, CSS, JavaScript
+- PHP
+
 <!-- ### Footer
 
 Last updated: March 2021 -->
