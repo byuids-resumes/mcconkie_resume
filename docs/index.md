@@ -21,8 +21,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 4.0 GPA
 
 
-## Related Experience
-
 ## Work History
 
 `January 2021 - Present`
