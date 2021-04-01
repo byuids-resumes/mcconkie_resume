@@ -42,13 +42,6 @@ __Instructor__, Zaniac
 - Experienced in teaching, working with, and communicating with others.
 
 
-## Service
-
-`2017 - 2019`
-__Missionary__, The Church of Jesus Christ of Latter-Day Saints in Colombia
-- Fluent in Spanish
-
-
 ## Tools and Skills
 ### Advanced
 - C++
@@ -59,6 +52,13 @@ __Missionary__, The Church of Jesus Christ of Latter-Day Saints in Colombia
 - Java
 - HTML, CSS, JavaScript
 - PHP
+
+
+## Service
+
+`2017 - 2019`
+__Missionary__, The Church of Jesus Christ of Latter-Day Saints in Colombia
+- Fluent in Spanish
 
 <!-- ### Footer
 
