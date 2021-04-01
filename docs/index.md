@@ -23,7 +23,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Work History
+## Work History
 
 `January 2021 - Present`
 __TA for Algorithm Design Course__, BYU-I
@@ -44,7 +44,7 @@ __Instructor__, Zaniac
 - Experienced in teaching, working with, and communicating with others.
 
 
-### Service
+## Service
 
 `2017 - 2019`
 __Missionary__, The Church of Jesus Christ of Latter-Day Saints in Colombia
